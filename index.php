@@ -1,10 +1,10 @@
 
 <?php
 // Define Google Client Credentials, Scopes, and URIs
-define('GCLIENT_ID', "1090939656304-bnfbahc6961u59r1iu6up3fi8odr1u1j.apps.googleusercontent.com");
-define('GCLIENT_SECRET', "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");
-define('GCLIENT_SCOPE', "https://www.googleapis.com/auth/drive");
-define('GCLIENT_REDIRECT', "/googledrive/index.php");
+define('GCLIENT_ID', "GCLIENT_ID");
+define('GCLIENT_SECRET', "GCLIENT_SECRET");
+define('GCLIENT_SCOPE', "GCLIENT_SCOPE");
+define('GCLIENT_REDIRECT', "/GCLIENT_REDIRECT");
 
 define('OAUTH2_TOKEN_URI',"https://oauth2.googleapis.com/token");
 
